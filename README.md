@@ -1,3 +1,3 @@
 # Usage
 
-Simply run the interactive test script for a demonstration by calling `./interactive.sh`.
+Simply see an interactive demonstration of the described behaviours run `./interactive.sh`.

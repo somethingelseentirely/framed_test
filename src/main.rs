@@ -4,8 +4,6 @@ use tokio_util::codec::{BytesCodec, FramedRead};
 
 #[tokio::main]
 async fn main() {
-    //let input = io::stdin();
-
     eprintln!("Opening log for reading.");
     let input = OpenOptions::new()
         .write(false)
